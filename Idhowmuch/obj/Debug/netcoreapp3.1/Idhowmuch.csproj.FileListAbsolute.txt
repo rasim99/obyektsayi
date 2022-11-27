@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\bin\Debug\netcoreapp3.1\Idhowmuch.exe
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\bin\Debug\netcoreapp3.1\Idhowmuch.deps.json
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\bin\Debug\netcoreapp3.1\Idhowmuch.runtimeconfig.json
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\bin\Debug\netcoreapp3.1\Idhowmuch.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\bin\Debug\netcoreapp3.1\Idhowmuch.dll
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\bin\Debug\netcoreapp3.1\Idhowmuch.pdb
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.dll
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.pdb
+C:\Users\ASUS\Desktop\Idhowmuch\Idhowmuch\obj\Debug\netcoreapp3.1\Idhowmuch.genruntimeconfig.cache
